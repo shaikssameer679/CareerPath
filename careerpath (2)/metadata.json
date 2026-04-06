@@ -1,0 +1,5 @@
+{
+  "name": "CareerPath",
+  "description": "A smart career guidance platform that analyzes your qualifications and interests using Gemini AI to provide personalized career roadmaps and suggestions.",
+  "requestFramePermissions": []
+}
